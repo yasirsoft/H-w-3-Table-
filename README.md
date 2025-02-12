@@ -10,7 +10,7 @@
         <h1>Table Tag & Atribute Page</h1>
     </header>
 
-    <h2>একটি সাধারণ টেবিল</h2>
+   <h2>একটি সাধারণ টেবিল</h2>
     <table border="1">
         <tr>
             <th>ক্রমিক নং</th>
@@ -34,7 +34,7 @@
         </tr>
     </table>
     
-    <h2>কলস্প্যান এবং রোস্প্যান সহ টেবিল</h2>
+   <h2>কলস্প্যান এবং রোস্প্যান সহ টেবিল</h2>
     <table border="1">
         <tr>
             <th rowspan="2">ক্রমিক নং</th>
@@ -57,7 +57,7 @@
     </table> 
     <br>
 
-    <h2>বিভিন্ন সাইজ ও কালারের টেবিল </h2>
+   <h2>বিভিন্ন সাইজ ও কালারের টেবিল </h2>
     <table border="1" cellpadding="10" cellspacing="0" width="100%">
         <tr>
             <th width="20%" bgcolor="#ffcccc">ক্রমিক নং</th>
